@@ -4,7 +4,7 @@ Super AI Engineer SS3
 
 Kaggle: https://www.kaggle.com/competitions/hackathon-online-fake-news-classification
 
-### Assess yourself for this round of competition.
+### Assess myself for this round of competition.
 
 | 💚  | 💛 | ❤️ |
 | --- | --- | --- |
